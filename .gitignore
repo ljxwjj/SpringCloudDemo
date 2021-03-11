@@ -1,0 +1,6 @@
+# Project exclude paths
+/api-geteway/target/
+/eureka-client/target/
+/eureka-consumer/target/
+/eureka-consumer-feign/target/
+/eureka-consumer-ribbon/target/
